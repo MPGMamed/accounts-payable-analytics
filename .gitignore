@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+data/raw/invoices_raw.csv
+data/processed/invoices_clean.csv
+outputs/charts/*.png
